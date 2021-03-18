@@ -1,7 +1,6 @@
 package exercise7;
 
 public class WeightOnMars {
-	
 	double mass;
 	
 	public WeightOnMars(double mass){
@@ -19,5 +18,4 @@ public class WeightOnMars {
 		System.out.println("Mass: "+ mass +"kg\nWeight on Earth: " + weightOnEarth +"N\nWeight on Mars: "+ weightOnMars +"N");
 		System.out.println("Mass: "+ mass +"kg\nWeight on Earth: " + weightOnEarth +"N\nWeight on Mars: "+ weightOnMars +"N\n");
 	}
-	
 }
